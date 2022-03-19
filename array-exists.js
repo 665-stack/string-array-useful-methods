@@ -27,3 +27,10 @@ else {
 if (friends.includes('mim')) {
     console.log('mim exists using includes')
 }
+
+
+//========= .concat ===========
+const first = [1, 3, 5];
+const second = [4, 6, 7, 8, 9];
+const combined = first.concat(second)
+console.log('combined -- ', combined)
