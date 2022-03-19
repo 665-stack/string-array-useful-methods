@@ -10,4 +10,4 @@ const words = ['alim', 'badhon', 'cemeron', 'david'];
 // const allwords = words.join('')
 // const allwords = words.join(' ')
 const allwords = words.join(', ')
-console.log('allwords -- ', allwords)
+console.log('allwords -- ', allwords);
