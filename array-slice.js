@@ -14,4 +14,3 @@ console.log('numberSpliced2', numberSpliced2)
 console.log('after numberSpliced2', numbers)
 
 
-
